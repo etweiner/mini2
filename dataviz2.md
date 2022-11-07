@@ -3,7 +3,7 @@
 
 # Government Debt Visualization 2
 ## This is a visual of government debt in different countires between the years 1995-2021.
-<div class="flourish-embed flourish-chart" data-src="visualisation/11721168"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11721168"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
 # Government Debt Visualization 3
 
