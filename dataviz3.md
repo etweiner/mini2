@@ -39,7 +39,8 @@ The student brought up some interesting points. I asked her if she could tell wh
 
 ## Building My Solution
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11806281"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+![Screen Shot 2022-11-15 at 8 43 05 PM](https://user-images.githubusercontent.com/117210925/202062814-00b85d4d-341c-4e6d-97b5-6e7f022267d9.jpg)
+
 
 Since both of the critiques mentioned that they liked sketch 1 the best, I went ahead and created a visual that looked like the sketch. I incorporated the student's feedback and added axis labels and made sure the header/title was readable. However, when after I created the visual (as seen above), I noticed that it looked as though the bars were quite squished along the x-axis, the width of the bars were too thin, and there was too much color. Overall, the visual looked as though there was far too much happening. It was difficult to understand what the data was communicating. So, I went back and asked for some more critiques. 
 
