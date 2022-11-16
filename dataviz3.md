@@ -31,9 +31,26 @@ I was trying to play around with the best option to display the data while makin
 In this graph, I decided to group the data by year, for a total of 12 graphs. I sketched the number of months along the x-axis and soon realized that by creating the visual in this manner, it was a great way to display the monthly data of each year. However, that is not quite the story that the graphs are supposed to represent. I also kept the visual colorless in order to eliminate business. 
 ![IMG_1813](https://user-images.githubusercontent.com/117210925/202059430-3ad3739d-cecd-4429-b68a-700a85bb352c.jpg)
 
+## Testing My Solutions
+
+I showed each of my visuals to two separate individuals- an adult in his late 50s and student in her early 20s. Each person agreed that sketch 1 (the colored visual) was the easiest to compare and contrast the data. The adult explained that he could easily tell that the visitation numbers following 2020 were not up to the mass numbers pre-covid. He also explained that all the information is in one spot, versus many other graphs on one page. This adult also explained that he could tell the data could be utilized by the National Park Service (NPS) themselves to analyze why the numbers have not gotten back up to pre-covid, theorizing that the NPS may have been going through staffing shortages and simply could not handle the amount of people. The adult also mentioned that this visual could be used by anyone who wants to travel to the National Parks in order to determine the least busy times to go. 
+
+The student brought up some interesting points. I asked her if she could tell what the visual was saying, and she could easily read that amount of people per month that visited US National Parks. I also asked if she knew the intended audience from the sketch and she assumed for the National Park Service audience or avid National Park travelers. I also asked for suggestions in which she said not labeling the axis was confusing and also include a better header. Finally, she mentioned that sketch 1 worked the best, in her opinion, because it makes more sense to have all the data on the same visual rather than having multiple. 
+
+## Building My Solution
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11806281"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Since both of the critiques mentioned that they liked sketch 1 the best, I went ahead and created a visual that looked like the sketch. I incorporated the student's feedback and added axis labels and made sure the header/title was readable. However, when after I created the visual (as seen above), I noticed that it looked as though the bars were quite squished along the x-axis, the width of the bars were too thin, and there was too much color. Overall, the visual looked as though there was far too much happening. It was difficult to understand what the data was communicating. So, I went back and asked for some more critiques. 
+
+INSERT IMPROVED GRAPHIC
 
 
+## Final Data Visualization
 
+
+Sources: Alba, Charles, Bing Pan, Junjun Yin, William L. Rice, Prasenjit Mitra, Michael S. Lin, and Yun Liang. “COVID-19’s Impact on Visitation Behavior to US National Parks from Communities of Color: Evidence from Mobile Phone Data.” Scientific Reports 12, no. 1 (December 2022): 13398. Accessed November 15, 2022. https://www.nature.com/articles/s41598-022-16330-z.
+“Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
 
 
 
