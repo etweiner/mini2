@@ -41,7 +41,7 @@ The student brought up some interesting points. I asked her if she could tell wh
 
 ### First Draft
 ![Screen Shot 2022-11-15 at 8 43 05 PM](https://user-images.githubusercontent.com/117210925/202062814-00b85d4d-341c-4e6d-97b5-6e7f022267d9.jpg)
-Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
+**Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.**
 
 Since both of the critiques mentioned that they liked sketch 1 the best, I went ahead and created a visual that looked like the sketch. I incorporated the student's feedback and added axis labels and made sure the header/title was readable. I wanted to show the impact Covid had on visitors to the National Parks compared to non-Covid years, but still having the ability to see the amount of visitors each month over the course of the four years. I thought that would be a communicative way to display the downward trend of visitors. 
 
@@ -50,8 +50,9 @@ However, when after I created the visual (as seen above), I noticed that it look
 
 ### Second Draft
 Since I felt as though my first draft of the visual did not work effectively, I decided to incorporate some of my own feedback that I described above. I eliminated the majority of the colors and left the years of 2018, 2019 and 2021 in gray with the year 2020 in red. I wanted to emphasize just how great Covid impacted the average daily visitiation to the National Parks (see below). 
+
 ![Screen Shot 2022-11-16 at 2 24 47 PM](https://user-images.githubusercontent.com/117210925/202316306-12f24b02-3ea8-447d-9e26-0ebd9677d829.JPEG)
-Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
+**Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.**
 
 I decided to ask for some more feedback on this visual to understand a better idea of what I should change. I asked an adult in her early 60s, who said it is "squished a bit, but the data compares each month of each year side by side, all four years together. You can easily see the trends. But it is busy."
 
@@ -61,8 +62,9 @@ I gathered from this feedback that this particular iteration of the visual was n
 ### Third Draft 
 
 After studying my second draft of the visual, I still felt as though there was too much in the visual. I could not eliminate any months because that would detract from the overall story of how Covid impacted every month after its emergence, so I decided to change the grouping of the bars into years so that all of the data would still be shown, but the visual would not look as squished (see below). I wanted to play around with the color to see if it added or detracted anything from the story so I decided to make the starting year of the data (2018) blue. 
+
 <img width="797" alt="Screen Shot 2022-11-16 at 6 29 02 PM" src="https://user-images.githubusercontent.com/117210925/202317378-aa9f73cf-6c17-44e7-84e4-eea5093c3f33.png">
-Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
+**Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
 
 I also asked for feedback on this draft of the visual in comparision with the second draft. Three Heinz students mentioned that they liked how the third visual was organized and the same adult said that "you can quickly see that visitation during the Covid year was down but recovered the next year to near pre-Covid levels. Harder to see with the first graph." I understood from this feedback that by re-grouping the data in the graph, I could easily tell the story. I also gathered that my third draft allowed for more perceptibility, intuitiveness and it was more communicative and visually pleasing since it was easier to visualize the trends, based on the various feedback I had recieved.  
 
