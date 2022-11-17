@@ -17,7 +17,7 @@ Lastly, for engagement, I ranked the visual as a 4 because while I did get the i
 
 
 ## Sketching Out a Solution
-Before I even went to pencil and paper, I already thougtht that I woudld like to see the data displayed in a bar graph. I chose to sketch out three different options of bar graphs as I wasn't quite sure which one would be best to display the data. 
+Before I even went to pencil and paper, I already thougtht that I woudld like to see the data displayed in a bar graph. With a bar graph, viewers can easily compare and constrast the data presented and it also seemed logical since I am comparing the months of certain years to the amount of people. I chose to sketch out three different options of bar graphs as I wasn't quite sure which one would be best to display the data. 
 
 ### Sketch 1
 In the first sketch, I put the months along the x-axis and amount of people along the y-axis. I then grouped the bars for the four years of 2018-2021 and color coded them to show distinction. I made my sketch too big to fit on the page and could only fit eight months, but I think the idea is still there. 
@@ -39,18 +39,47 @@ The student brought up some interesting points. I asked her if she could tell wh
 
 ## Building My Solution
 
+### First Draft
 ![Screen Shot 2022-11-15 at 8 43 05 PM](https://user-images.githubusercontent.com/117210925/202062814-00b85d4d-341c-4e6d-97b5-6e7f022267d9.jpg)
+Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
+
+Since both of the critiques mentioned that they liked sketch 1 the best, I went ahead and created a visual that looked like the sketch. I incorporated the student's feedback and added axis labels and made sure the header/title was readable. I wanted to show the impact Covid had on visitors to the National Parks compared to non-Covid years, but still having the ability to see the amount of visitors each month over the course of the four years. I thought that would be a communicative way to display the downward trend of visitors. 
 
 
-Since both of the critiques mentioned that they liked sketch 1 the best, I went ahead and created a visual that looked like the sketch. I incorporated the student's feedback and added axis labels and made sure the header/title was readable. However, when after I created the visual (as seen above), I noticed that it looked as though the bars were quite squished along the x-axis, the width of the bars were too thin, and there was too much color. Overall, the visual looked as though there was far too much happening. It was difficult to understand what the data was communicating. So, I went back and asked for some more critiques. 
+However, when after I created the visual (as seen above), I noticed that it looked as though the bars were quite squished along the x-axis, the width of the bars were too thin, and there was too much color. While I wanted to show the impact Covid had on visitors to the National Parks compared to non-Covid years, I was just not sure this graph effectively displayed that. 
 
-INSERT IMPROVED GRAPHIC
+### Second Draft
+Since I felt as though my first draft of the visual did not work effectively, I decided to incorporate some of my own feedback that I described above. I eliminated the majority of the colors and left the years of 2018, 2019 and 2021 in gray with the year 2020 in red. I wanted to emphasize just how great Covid impacted the average daily visitiation to the National Parks (see below). 
+![Screen Shot 2022-11-16 at 2 24 47 PM](https://user-images.githubusercontent.com/117210925/202316306-12f24b02-3ea8-447d-9e26-0ebd9677d829.JPEG)
+Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
+
+I decided to ask for some more feedback on this visual to understand a better idea of what I should change. I asked an adult in her early 60s, who said it is "squished a bit, but the data compares each month of each year side by side, all four years together. You can easily see the trends. But it is busy."
+
+I gathered from this feedback that this particular iteration of the visual was not as intuitive as it could be. While it does communicate the message (Covid affecting the number of visitors to national parks), it could be done so more effecively. 
 
 
-## Final Data Visualization
+### Third Draft 
+
+After studying my second draft of the visual, I still felt as though there was too much in the visual. I could not eliminate any months because that would detract from the overall story of how Covid impacted every month after its emergence, so I decided to change the grouping of the bars into years so that all of the data would still be shown, but the visual would not look as squished (see below). I wanted to play around with the color to see if it added or detracted anything from the story so I decided to make the starting year of the data (2018) blue. 
+<img width="797" alt="Screen Shot 2022-11-16 at 6 29 02 PM" src="https://user-images.githubusercontent.com/117210925/202317378-aa9f73cf-6c17-44e7-84e4-eea5093c3f33.png">
+Source: “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
+
+I also asked for feedback on this draft of the visual in comparision with the second draft. Three Heinz students mentioned that they liked how the third visual was organized and the same adult said that "you can quickly see that visitation during the Covid year was down but recovered the next year to near pre-Covid levels. Harder to see with the first graph." I understood from this feedback that by re-grouping the data in the graph, I could easily tell the story. I also gathered that my third draft allowed for more perceptibility, intuitiveness and it was more communicative and visually pleasing since it was easier to visualize the trends, based on the various feedback I had recieved.  
+
+I went back to the third draft visual and decided that I do not need to emphasize the data in year 2018 as it does not add anything to the meaning of the visual. I decided to place that year in gray so it will also stand out against 2020, or the year of Covid. 
 
 
-Sources: Alba, Charles, Bing Pan, Junjun Yin, William L. Rice, Prasenjit Mitra, Michael S. Lin, and Yun Liang. “COVID-19’s Impact on Visitation Behavior to US National Parks from Communities of Color: Evidence from Mobile Phone Data.” Scientific Reports 12, no. 1 (December 2022): 13398. Accessed November 15, 2022. https://www.nature.com/articles/s41598-022-16330-z.
+## Final Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11806281"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+This redesigned data visualization tells a story of how the US National Parks were impacted by Covid19. As shown in the early years of 2018 and 2019, the Parks were hugely popular, especially in the warmer months. Once the onset of Covid began in January 2020, visitorship plummeted for every month compared to the previous years. Visitors to the National Parks began to bounce back in 2021, however, the numbers were still not quite as high as those pre-Covid, which could be for a number of reasons: NPS may have had a staffing shortage or many people still were not traveling due to the risk of Covid. At any rate, like many other parts of the country and world, Covid's impact is still quite vast. 
+
+
+### Sources
+
+ Alba, Charles, Bing Pan, Junjun Yin, William L. Rice, Prasenjit Mitra, Michael S. Lin, and Yun Liang. “COVID-19’s Impact on Visitation Behavior to US National Parks from Communities of Color: Evidence from Mobile Phone Data.” Scientific Reports 12, no. 1 (December 2022): 13398. Accessed November 15, 2022. https://www.nature.com/articles/s41598-022-16330-z.
+
 “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
 
 
