@@ -78,7 +78,7 @@ This redesigned data visualization tells a story of how the US National Parks we
 
 ### Sources
 
- Alba, Charles, Bing Pan, Junjun Yin, William L. Rice, Prasenjit Mitra, Michael S. Lin, and Yun Liang. “COVID-19’s Impact on Visitation Behavior to US National Parks from Communities of Color: Evidence from Mobile Phone Data.” Scientific Reports 12, no. 1 (December 2022): 13398. Accessed November 15, 2022. https://www.nature.com/articles/s41598-022-16330-z.
+Alba, Charles, Bing Pan, Junjun Yin, William L. Rice, Prasenjit Mitra, Michael S. Lin, and Yun Liang. “COVID-19’s Impact on Visitation Behavior to US National Parks from Communities of Color: Evidence from Mobile Phone Data.” Scientific Reports 12, no. 1 (December 2022): 13398. Accessed November 15, 2022. https://www.nature.com/articles/s41598-022-16330-z.
 
 “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
 
