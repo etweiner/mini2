@@ -1,12 +1,17 @@
-## Final Project Proposal
+## Final Project Proposal --change to national park? how has visitation changed pre, during and post covid? especially with the use of the outdoors being better?
 
-### Topic: I Love to Swim
-As a child, I spent every day in every summer swimming in the various lakes of Wisconsin, or in the pool that my mom swam in as a child. I don't remember even taking lessons, that's how inate swimming was for me. As an adult, I find myself in the pool on a regular basis, swimming laps for exercise and as a way to burn off stress. 
-In thinking about this final project, I realized that I don't even think about my ability to swim and I take it for granted as there are many adults who cannot swim. Over the summer, I was hanging out with some friends paddle boarding when one of the girls states that she doesn't know how to swim. This person was also sitting on a paddle board in deep water, without a life jacket. After she mentioned she couldn't swim, I began to think that if she happened to fall off and into the water, there would be no way to save her. Nobody in the group was a trained lifeguard and once panic kicks in, it is all over. That moment really changed my outlook on swimming.
-For this final project, I intend to explore the topic of the number of Americans who do not know how to swim and the contributing factors. I will also look into the factors associated with accidental drownings in adults and whether or not knowing how to swim had an impact. 
-With this topic, I want to tell a story of the number of adult Americans who do not know how to swim and why. I want to show this over a certain time period while also displaying the contributing factors that play into an inability to swim in adults. 
+### Topic and Summary: The Impact of Covid on US National Parks
+As a national park enthusiast, I am always curious about the innerworkings of the National Park System and the parks themselves. There are approximately 423 national parks that cover over 84 million acres in the United States.^1 The nation parks are immensly popular tourist destinations as in 2021, the national parks were visited by 297.1 million visitors.^2 Because the national parks are so vast, the National Park Services employs 20,000 employees in order to keep each park open and running. Prior to the onset of Covid19, the national parks saw slews of visitors each month. With the start of the March 202 lockdown, visitation plummeted^3 as everyone sheltered in place. With the shutdown and aftermath, the national parks were affected. 
 
 ### Story Arc
-Set up: Adult goes paddleboarding on what he/she thinks is a shallow pond. Confident in his/her ability to stand on a paddle board, adult forgoes a lifevest, afterall, the water is supposedly shallow. 
-Conflict: A gust of wind creates some rocky waves beneath the paddle board. Adult falls off and into the water. The water is not shallow and the adult can't swim. Adult begins to panic. 
-Resolution: Adult accidentally drowns. 
+Set up:
+Conflict:  
+Resolution: 
+
+
+
+
+Sources:
+1. https://www.nationalparks.org/connect/blog/how-many-national-parks-are-there#:~:text=The%20National%20Park%20System%20encompasses,%2C%20American%20Samoa%2C%20and%20Guam.
+2. https://www.nps.gov/orgs/1207/most-famous-national-parks-set-visitation-records-in-2021.htm#:~:text=These%20findings%20were%20released%20today,million%20recreation%20visits%20in%202021.
+3. national park visitation data
