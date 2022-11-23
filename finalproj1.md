@@ -31,9 +31,9 @@ To organize my thought process, I created some initial sketches that I think cou
 
 ![IMG_1850](https://user-images.githubusercontent.com/117210925/203658146-e687de31-c17d-4787-8773-a6471353181d.jpg)
 
-
 2. This bar graph shows the most popular national parks of 2021 and the number of visitors. The purpose of this is to show not only the most popular parks, but to visualize the number of visitors they attract and the range. For instance, I would have thought that parks like Arches National Park would be on the list, however if was not. 
 
+3. These sketches show the story outline in more detail. 
 ![IMG_1851](https://user-images.githubusercontent.com/117210925/203658360-de1c2df5-2429-4210-83c3-b770460c03e5.jpg)
 ![IMG_1852](https://user-images.githubusercontent.com/117210925/203658367-01709e33-1e7d-4b0f-ac24-d0a62b3a6a62.jpg)
 
