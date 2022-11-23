@@ -24,9 +24,20 @@ In my final project, I plan to show and explore the various impacts of Covid on 
 ## Sketches
 
 To organize my thought process, I created some initial sketches that I think could helpt set up my story and add some context:
+
+![IMG_1849](https://user-images.githubusercontent.com/117210925/203658034-f9b685d5-abf3-4855-a84b-3a4c5c97e657.jpg)
+
 1. This outline of the United States shows the number of national parks that span over 84 acres of land.^8 The purpose of this sketch is to demonstrate just how vast the national park system is in this country. I want to give viewers an idea of just how spread out these parks are and that they attract visitors from all over. 
 
+![IMG_1850](https://user-images.githubusercontent.com/117210925/203658146-e687de31-c17d-4787-8773-a6471353181d.jpg)
+
+
 2. This bar graph shows the most popular national parks of 2021 and the number of visitors. The purpose of this is to show not only the most popular parks, but to visualize the number of visitors they attract and the range. For instance, I would have thought that parks like Arches National Park would be on the list, however if was not. 
+
+![IMG_1851](https://user-images.githubusercontent.com/117210925/203658360-de1c2df5-2429-4210-83c3-b770460c03e5.jpg)
+![IMG_1852](https://user-images.githubusercontent.com/117210925/203658367-01709e33-1e7d-4b0f-ac24-d0a62b3a6a62.jpg)
+
+
 
 ## Data
 I will retrieve my data from the NPS where they have records of visitation numbers dating back to 1904. Link:https://www.nps.gov/aboutus/visitation-numbers.htm
@@ -43,15 +54,15 @@ This data shows the ranking of US national parks based on the number of yearly v
 I plan on completing the various stages of this project by documenting my progress on Github. I plan on using utilizing Flourish to create my data visulaziations and then using Shorthand to build out my story. I have never used Shorthand before and after the demonstration in class, it seems like a very effective and visually appealing way to present a story. 
 
 Sources:
-1. https://www.nationalparks.org/connect/blog/how-many-national-parks-are-there#:~:text=The%20National%20Park%20System%20encompasses,%2C%20American%20Samoa%2C%20and%20Guam.
-2. https://www.nps.gov/orgs/1207/most-famous-national-parks-set-visitation-records-in-2021.htm#:~:text=These%20findings%20were%20released%20today,million%20recreation%20visits%20in%202021.
-3. national park visitation data
+1. “How Many National Parks Are There?” National Park Foundation. Accessed November 23, 2022. https://www.nationalparks.org/connect/blog/how-many-national-parks-are-there.
+2. “Most Famous National Parks Set Visitation Records in 2021.” Office of Communications. National Park Service, February 16, 2022. Last modified February 16, 2022. Accessed November 23, 2022. https://www.nps.gov/orgs/1207/most-famous-national-parks-set-visitation-records-in-2021.htm.
+3. “Annual Visitation Highlights .” Social Science. National Park Service, n.d. Accessed November 15, 2022. https://www.nps.gov/subjects/socialscience/annual-visitation-highlights.htm.
 4. Ibid. 
-5. https://www.nps.gov/acad/learn/news/pandemic-causes-impacts-and-opportunities-for-u-s-national-parks.htm
-6. https://time.com/5869788/national-parks-covid-19/
+5. “COVID-19 Pandemic Causes Impacts and Opportunities for U.S. National Parks .” Acadia National Park. National Park Service, April 12, 2021. Last modified April 12, 2021. Accessed November 23, 2022. https://www.nps.gov/acad/learn/news/pandemic-causes-impacts-and-opportunities-for-u-s-national-parks.htm.
+6. Chow, Andrew. “National Parks Are Getting Trashed During COVID-19, Endangering Surrounding Communities.” Time. Time USA, July 22, 2020. Last modified July 22, 2020. Accessed November 23, 2022. https://time.com/5869788/national-parks-covid-19/.
 7. Ibid. 
-8. see #1
-9.https://irma.nps.gov/STATS/SSRSReports/National%20Reports/Annual%20Park%20Ranking%20Report%20(1979%20-%20Last%20Calendar%20Year)
+8. “How Many National Parks Are There?” National Park Foundation.
+9.“Annual Park Ranking Report for Recreation Visits in: 2021.” IRMA. National Park Service, n.d. Accessed November 23, 2022. https://irma.nps.gov/STATS/SSRSReports/National%20Reports/Annual%20Park%20Ranking%20Report%20(1979%20-%20Last%20Calendar%20Year).
 
 
 
