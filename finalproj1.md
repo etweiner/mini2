@@ -1,4 +1,4 @@
-# Final Project Proposal --change to national park? how has visitation changed pre, during and post covid? especially with the use of the outdoors being better?
+# Final Project Proposal
 
 ## Outline
 ### Topic: The Impact of Covid on US National Parks
@@ -21,7 +21,26 @@ In my final project, I plan to show and explore the various impacts of Covid on 
 
 **What I hope to achieve:** I hope to show that while many people turned to the national parks as a refuge and source of adventure, hope and freedom from quarantine during and after the pandemic, the US National Parks were still greatly affected by Covid and while these parks have been established for years, they are still fragile ecosystems that can suffer due to human behavior and issues like a global pandemic. 
 
+## Sketches
 
+To organize my thought process, I created some initial sketches that I think could helpt set up my story and add some context:
+1. This outline of the United States shows the number of national parks that span over 84 acres of land.^8 The purpose of this sketch is to demonstrate just how vast the national park system is in this country. I want to give viewers an idea of just how spread out these parks are and that they attract visitors from all over. 
+
+2. This bar graph shows the most popular national parks of 2021 and the number of visitors. The purpose of this is to show not only the most popular parks, but to visualize the number of visitors they attract and the range. For instance, I would have thought that parks like Arches National Park would be on the list, however if was not. 
+
+## Data
+I will retrieve my data from the NPS where they have records of visitation numbers dating back to 1904. Link:https://www.nps.gov/aboutus/visitation-numbers.htm
+I will use this data to demonstrate how the number of visitors to national parks have changed before, during and after Covid (although we are still in the pandemic but I want to highlight just how much the numbers changed since then.) The purpose is to show that while visitation most likely picked back up after 2020, it was still not at the numbers it was before the pandemic in 2019. This could be to a number of reasons that was largely impacted due to covid. These reasons will be explored with the second data set. 
+
+
+Link: https://www.statista.com/statistics/1180651/number-of-national-and-state-park-industry-employees-us/#:~:text=National%20and%20state%20park%20industry%20employee%20count%20in%20the%20U.S.%202012%2D2022&text=There%20were%20approximately%207%2C532%20employees,percent%20over%20the%20previous%20year.
+This data set shows the number of people employed by the NPS. Maintaining and managing the national parks is a huge undertaking and while the pandemic affected the number of visitors, it also effected the employment of the NPS as well. Staffing decreased in 2020 and while it increased in 2021, it still was not at the same level as prior to 2020. This has vast implications for the parks and may have effected the visitation rates as well. If there are not enough personel to staff the parks, then the parks are not able to allow the same number of visitors in as there were problems with litter, vandalisim and overgrowth as a result of staffing shortages and the shutdown. 
+
+Link:https://irma.nps.gov/STATS/SSRSReports/National%20Reports/Annual%20Park%20Ranking%20Report%20(1979%20-%20Last%20Calendar%20Year)
+This data shows the ranking of US national parks based on the number of yearly visitors. It can be discerned that some of these parks remain the most popular parks to visit in the US based on their numbers. I will use this data to present a resolution to the problem of how Covid effected the national parks. When planning a vacation to a national park, it can be useful to explore the parks that will be the busiest versus parks that are equally as great but not as popular. For example, Glen Canyon had about 3 million annual visitors in 2021 and the Grand Canyon had about 5 million visitors.^9 While these parks are different, it can be inferred that going to Glen Canyon may be a better option than the more popular Grand Canyon to avoid crowds and inaccessilbily due to a reservation system or staffing shortage. 
+
+## Method and Medium
+I plan on completing the various stages of this project by documenting my progress on Github. I plan on using utilizing Flourish to create my data visulaziations and then using Shorthand to build out my story. I have never used Shorthand before and after the demonstration in class, it seems like a very effective and visually appealing way to present a story. 
 
 Sources:
 1. https://www.nationalparks.org/connect/blog/how-many-national-parks-are-there#:~:text=The%20National%20Park%20System%20encompasses,%2C%20American%20Samoa%2C%20and%20Guam.
@@ -31,6 +50,8 @@ Sources:
 5. https://www.nps.gov/acad/learn/news/pandemic-causes-impacts-and-opportunities-for-u-s-national-parks.htm
 6. https://time.com/5869788/national-parks-covid-19/
 7. Ibid. 
+8. see #1
+9.https://irma.nps.gov/STATS/SSRSReports/National%20Reports/Annual%20Park%20Ranking%20Report%20(1979%20-%20Last%20Calendar%20Year)
 
 
 
