@@ -9,7 +9,7 @@
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12011897"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 In the storyboard, I had originally drew that I wanted to display the amount of National Parks on a map. However, I ran into some trouble attempting to create a map in that I was unable to chucnk the data in a way where it populates the acres of National Park land in each state.
-Instead, I created a Treemap hierarchy of the total acreage of National Park Service lands next to how that land is divided up. The purpose is to set the stage of story by showing the audience just how vast the National Park Service (NPS) is and their their responsibilities entail much more than what the general public probably thinks. 
+Instead, I created a treemap hierarchy of the total acreage of National Park Service lands next to how that land is divided up. The purpose is to set the stage of story by showing the audience just how vast the National Park Service (NPS) is and what their responsibilities entail much more than what the general public probably thinks. 
 
 
 ### **Scene 3**
