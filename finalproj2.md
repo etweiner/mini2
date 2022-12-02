@@ -12,6 +12,7 @@ In the storyboard, I had originally drew that I wanted to display the amount of 
 Instead, I created a treemap hierarchy of the total acreage of National Park Service lands next to how that land is divided up. The purpose is to set the stage of story by showing the audience just how vast the National Park Service (NPS) is and what their responsibilities entail much more than what the general public probably thinks. 
 
 
+
 ### **Scene 3**
 <div class="flourish-embed flourish-chart" data-src="visualisation/11999289"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -76,6 +77,8 @@ National Parks will be here for years to come, we must educate ourselves and tak
 During classtime, I also recieved some very helpful feedback. The students in my group spent time studying my visuals and came up with many suggestions on how to improve them. For example, in scene 2, they also mentioned that having the total acreage is also redundant and that the treemap should have the total acreage in the title. They also mentioned about the colors- keep them consistent throughout all the visuals. Additionally, the also noticed the line and bar graphs that had dates that were out of order, which is quite misleading to the viewers. 
 
 Going into part 3 of the final project, I will work to incorporate the userfeedback from the interviews along with the feedback from class to go back and finetune my story as I put it all together in Shorthand. 
+
+From both feedback sessions, I gathered that I need to fine tune some of the graphs, which I will do last once I tighten up the story. There are definate similarities with all the feedback that I've heard, such as some of the issues with the graph, confusion with the resolution/call to action. In part 3, I will to go back and make sure that my conflict and resolution are clear to the audience and show how each element of the story relates to one another. 
 
 
 
