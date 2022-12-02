@@ -53,7 +53,7 @@ These research gaps can also lead to lack of education surrounding the parks bec
 ### **Scene 8 - Call to Action**
 <div class="flourish-embed flourish-chart" data-src="visualisation/12013363"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The Covid19 pandemic greatly disrupted the US National Parks operations and management, in which the long term affects on conservation and preservation are still unknown. However, pepole who are interested in the National Parks have opportunities to learn more about the NPS. This visual dispalys the vast amount of educational resources available online, free to the public. 
+The Covid19 pandemic greatly disrupted the US National Parks operations and management, in which the long term affects on conservation and preservation are still unknown. However, pepole who are interested in the National Parks have opportunities to learn more about the NPS. Even throughout the pandemic, the NPS released more online content^5 so people can learn about the parks even if they are not visiting them.This visual dispalys the vast amount of educational resources available online, free to the public. 
 Covid has taught us many things, but it also demonstrated how fragile our National Parks. In order to make sure the 
 National Parks will be here for years to come, we must educate ourselves and take advantage of the free resources available to us all. 
 
@@ -64,11 +64,18 @@ National Parks will be here for years to come, we must educate ourselves and tak
 2. Ibid. 
 3. Ibid. 
 4. Ibid.
+5. Ibid. 
 
 
 
 ## User Research
+<img width="1397" alt="Screen Shot 2022-12-01 at 8 58 07 PM" src="https://user-images.githubusercontent.com/117210925/205198165-ef5e37e3-c27b-4f8f-8907-22f2b0355812.png">
 
+
+### Class Feedback
+During classtime, I also recieved some very helpful feedback. The students in my group spent time studying my visuals and came up with many suggestions on how to improve them. For example, in scene 2, they also mentioned that having the total acreage is also redundant and that the treemap should have the total acreage in the title. They also mentioned about the colors- keep them consistent throughout all the visuals. Additionally, the also noticed the line and bar graphs that had dates that were out of order, which is quite misleading to the viewers. 
+
+Going into part 3 of the final project, I will work to incorporate the userfeedback from the interviews along with the feedback from class to go back and finetune my story as I put it all together in Shorthand. 
 
 
 
