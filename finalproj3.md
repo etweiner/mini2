@@ -47,8 +47,7 @@ I really enjoyed working with Shorthand. I think it is a great way to present in
 
 
 Links:
-Repo
-Part 1
-Part 2
-Shorthand 
-Sources in shorthand?
+[Part 1](https://etweiner.github.io/mini2/finalproj1.html)
+[Part 2](https://etweiner.github.io/mini2/finalproj2.html)
+[Shorthand](https://carnegiemellon.shorthandstories.com/the-impacts-of-covid-on-us-national-parks/index.html) 
+
