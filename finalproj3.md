@@ -14,7 +14,7 @@ However, throughout the process, I felt as though my call to action, at the end,
 I originally attempted to end my story by showing a great number of online educational resources that the NPS offers to the public, for free. My rational was that these free resources allows anyone to educate themselves on the parks as a result from Covid, as many things moved online. As I moved through the story, however, this last piece never really fit. In one of my interviews, the interviewee said that he just didn't understand that last piece and that it seemed pretty random because the rest of the story focused on Covid impacts and how national parks have suffered. He was right, as the story was not matching up from the begining to the end. 
 
 
-I then discussed this problem with [Chanadaree] {SPELL} who helped me refine and work out my call to action from my story. From our conversation, the elements of my story became clear to me:
+I then discussed this problem with Chanaradee who helped me refine and work out my call to action from my story. From our conversation, the elements of my story became clear to me:
 -The NPS maintains and manages over 85 M acres of land, 
 -Before Covid, the parks saw, on average, over 300,000,000 people per year
 -In 2020, the start of Covid, visitation dramatically dropped
