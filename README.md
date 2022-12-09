@@ -31,15 +31,15 @@ The purpose of this assignment was to find a data visual that was not a good ren
 Click [here](https://etweiner.github.io/mini2/dataviz3.html) to view the assignment. 
 
 ### Final Project - Part 1
-You will find my final project proposal [here](https://etweiner.github.io/mini2/finalproj1.html). 
+You will find my final project proposal [here](https://etweiner.github.io/mini2/finalproj1.html) .
 
 ### Final Project - Part 2
-You will find my storyboard [here](https://etweiner.github.io/mini2/finalproj2.html)
+You will find my storyboard [here](https://etweiner.github.io/mini2/finalproj2.html) .
 
 ### Final Project - Part 3
-You will find my final write up [here](https://etweiner.github.io/mini2/finalproj3.html)
+You will find my final write up [here](https://etweiner.github.io/mini2/finalproj3.html) .
 
 ###### Shorthand 
-You will find my Shorthand presentation [here](https://carnegiemellon.shorthandstories.com/the-impacts-of-covid-on-us-national-parks/index.html)
+You will find my Shorthand presentation [here](https://carnegiemellon.shorthandstories.com/the-impacts-of-covid-on-us-national-parks/index.html) .
 
 
