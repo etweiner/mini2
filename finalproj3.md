@@ -10,7 +10,7 @@ I came across different articles and data sets, (in which the National Park Serv
 In Part 1 of the project, I brainstormed how I wanted my story to develop, with the ideas of data sets that I wanted to use. In Part 2, I collected those data sets that are representative of Covid impacts on the National Parks. 
 After drawing my storyboard, I created the actual visualizations to input into my final project. 
 
-However, throughout the process, I felt as though my call to action, at the end, could be stronger. This was as I recieved my userfeedback not only from my interviews but from class members as well. 
+ Throughout the process, however, I felt as though my call to action, at the end, could be stronger. This was as I recieved my userfeedback not only from my interviews but from class members as well. 
 I originally attempted to end my story by showing a great number of online educational resources that the NPS offers to the public, for free. My rational was that these free resources allows anyone to educate themselves on the parks as a result from Covid, as many things moved online. As I moved through the story, however, this last piece never really fit. In one of my interviews, the interviewee said that he just didn't understand that last piece and that it seemed pretty random because the rest of the story focused on Covid impacts and how national parks have suffered. He was right, as the story was not matching up from the begining to the end. 
 
 
