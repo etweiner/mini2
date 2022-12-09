@@ -1,5 +1,5 @@
 # Final Project Part 3
-Final write up- what have I done
+Final write up- what have I done to complete this project. 
 
 ## Refining my story
 As I mentioned in Homework 3&4 and Part 1 of the final project, I love to visit national parks. In Homework 3&4, I recreated a data visualization on the visitation numbers to national parks pre and post-covid. 
